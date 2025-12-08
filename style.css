@@ -27,20 +27,19 @@ article {
   display: flex;
   justify-content: space-evenly;
   height: 50vh;
-}
-article .infoPet {
+  border: solid red;
   width: 35%;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
 }
-article .infoPet #nomeDoPet {
+article #nomeDoPet {
   color: #f97415;
   font-size: 3.75rem;
 }
-article .infoPet #descricao {
+article #descricao {
   font-size: 1.5rem;
 }
-article .infoPet #fotoGrande {
+article #fotoGrande {
   width: 70%;
 }/*# sourceMappingURL=style.css.map */
